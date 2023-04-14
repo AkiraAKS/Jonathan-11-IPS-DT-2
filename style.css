@@ -307,7 +307,7 @@ header {
 	height: 10rem;
 	display: flex;
 	justify-content: center;
-	animation: spinText 1s linear infinite;
+	animation: spinText 10s linear infinite;
 }
 
 .contact_btn p span {
